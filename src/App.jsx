@@ -41,9 +41,9 @@ const App = () => {
                 <p className="text-sm text-gray-500">10/2025 - 02/2026 | Bengaluru (Remote)</p>
               </div>
               <div className="border-l-4 border-purple-400 pl-4">
-                <p className="text-xl font-semibold text-gray-200">Horizon College, Bengaluru</p>
-                <p className="text-gray-400">Bachelor of Technology in Computer Science</p>
-                <p className="text-sm text-gray-500">08/2022 - 07/2024 | Bengaluru</p>
+                <p className="text-xl font-semibold text-gray-200">DAVV, Indore</p>
+                <p className="text-gray-400">Bachelor of Arts. in Journalism and Mass Communication</p>
+                <p className="text-sm text-gray-500">08/2022 - 07/2026 | Indore</p>
               </div>
             </div>
           </div>
